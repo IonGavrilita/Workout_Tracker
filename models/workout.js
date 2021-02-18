@@ -1,6 +1,3 @@
-const mangoose = require ("mangoose");
-const Schema = mangoose.Schema;
-
 //require mongoose and define mongoose Schema
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
