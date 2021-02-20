@@ -37,7 +37,7 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 - Repository Link - (https://github.com/IonGavrilita/Workout_Tracker)
 
 ### Contributors
-* Name: Ion Gavrilita
+- Name: Ion Gavrilita
 - Email: gavrilita.ion.93@gmail.com
 - Github profile: https://github.com/IonGavrilita
 ### License
